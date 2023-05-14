@@ -1,0 +1,84 @@
+
+Data Structures
+https://www.pearson.com/us/higher-education/product/Carrano-Data-Abstraction-Problem-Solving-with-C-5th-Edition/9780321433329.html
+The classic, best-selling Data Abstraction and Problem Solving with C++: Walls and Mirrors book provides a firm foundation in data structures
+Good content but the website is outdated and has too many ads
+4
+
+ataD Structures
+https://www.pearon.com/us/higher-education/product/Carrano-Data-Abstraction-Problem-Solving-with-C-5th-Edition/9780321433329.html
+This is just for testing how the Table ADT handles collisions. 
+Good content but the website is outdated and has too many ads
+1
+
+Artificial Intelligence
+https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597
+Artificial Intelligence: A Modern Approach (3rd Edition) provides a comprehensive introduction to the field of AI
+The book is well-organized and informative, but some sections may be difficult to understand for beginners
+5
+
+Web Development
+https://www.udemy.com/course/the-complete-web-development-bootcamp/
+The Complete Web Development Bootcamp is an online course that covers HTML, CSS, JavaScript, Node, and more
+The instructor is knowledgeable and the course is well-structured, but the pacing may be too slow for some learners
+1
+
+Social Psychology
+https://www.macmillanlearning.com/Catalog/product/discovering-social-psychology-brief-version-baumeister
+Discovering Social Psychology: The Brief Version provides an introduction to the field of social psychology
+The writing style is engaging and the book covers a wide range of topics, but some of the examples are outdated
+3
+
+Marketing
+https://www.amazon.com/Principles-Marketing-17th-Philip-Kotler/dp/0137157571
+Principles of Marketing (17th Edition) provides a comprehensive introduction to the field of marketing
+The book is well-written and includes helpful case studies, but some sections may be too theoretical for practical use
+2
+
+Computer Networking
+https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149
+Computer Networking: A Top-Down Approach (7th Edition) provides a comprehensive introduction to the field of computer networking
+The book is well-organized and includes helpful diagrams, but some of the content may be outdated
+5
+
+Economics
+https://www.amazon.com/Economics-Paul-Krugman/dp/1429283432
+Economics (4th Edition) by Paul Krugman and Robin Wells provides an introduction to the principles of economics
+The writing style is engaging and the book includes helpful examples, but some of the concepts may be difficult to grasp for beginners
+1
+
+Human Resource Management
+https://www.amazon.com/Fundamentals-Human-Resource-Management-Raymond/dp/0078112613
+Fundamentals of Human Resource Management provides an introduction to the field of HR management
+The book includes helpful case studies and examples, but some of the content may be too basic for experienced professionals
+4
+
+Data Structures
+https://www.springer.com/gp/book/97830307255
+Data Science with Python and R is a comprehensive guide to the field of data science
+The book is well-written and includes helpful examples, but some sections may be too technical for beginners
+3
+
+Economics
+https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996
+Good to Great: Why Some Companies Make the Leap and Others Don't provides a comprehensive guide to business management
+The book includes helpful case studies and examples, but some of the content may be too theoretical for practical use
+3
+
+Graphic Design
+https://www.amazon.com/Thinking-Graphic-Design-Ellen-Lupton/dp/1568989792
+Thinking with Type, 2nd revised and expanded edition: A Critical Guide for Designers, Writers, Editors, & Students provides a comprehensive guide to typography and graphic design
+The book includes helpful examples and practical advice, but some of the content may be too technical for beginners
+4
+
+Economics
+https://www.amazon.com/1491-Revelations-Americas-Before-Columbus/dp/1400032059
+1491: New Revelations of the Americas Before Columbus provides a comprehensive history of the Americas before the arrival of Europeans
+The writing style is engaging and the book includes detailed research and helpful examples, but some of the content may be too academic for casual readers
+1
+
+ataD Structures
+https://www.springer.com/gp/book/97830307254
+Another one to test how collisions are handled
+The book is well-written and includes helpful examples, but some sections may be too technical for beginners
+1
